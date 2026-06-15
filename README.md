@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## 🐍 Currently Learning
+Practicing Python on [Exercism](https://exercism.org/profiles/chuaguanyu0718-dotcom)
 <!--
 **chuaguanyu0718-dotcom/chuaguanyu0718-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
