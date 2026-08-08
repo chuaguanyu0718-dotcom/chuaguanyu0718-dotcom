@@ -1,8 +1,14 @@
 # Hi, I'm Guan Yu 👋
 
-I'm learning Python by building practical projects and strengthening my problem-solving fundamentals.
+I'm a student at **Nanyang Technological University (NTU)** with a growing interest in technology, financial markets, and data-driven problem-solving.
 
-Right now, I'm especially interested in using code to explore financial markets, analyze data, and turn raw information into useful insights.
+I'm currently learning Python by building practical projects and strengthening my programming fundamentals. I enjoy using code to explore real-world questions, turn raw information into useful insights, and better understand the markets around us.
+
+## Education
+
+🎓 **Nanyang Technological University (NTU)**
+
+My time at NTU is helping me develop a strong foundation in analytical thinking, independent learning, and practical problem-solving.
 
 ## What I'm working on
 
@@ -10,6 +16,13 @@ Right now, I'm especially interested in using code to explore financial markets,
 - Exploring stock and financial-data analysis
 - Learning to work with real-world datasets and create clear visualizations
 - Building stronger habits around testing and project organization
+
+## Interests
+
+- 📈 Financial markets and investing
+- 📊 Data analysis and visualization
+- 💻 Technology and practical software projects
+- 🧠 Continuous learning and problem-solving
 
 ## Tools I'm learning
 
