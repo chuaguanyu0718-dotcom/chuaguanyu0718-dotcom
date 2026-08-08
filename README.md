@@ -2,6 +2,8 @@
 
 ### I like turning mathematical ideas into useful software.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuaguanyu/)
+
 I'm a **BSc Mathematical and Computer Science** student at **Nanyang Technological University (NTU)**, interested in the space where mathematics, computing, finance, and real-world problem-solving meet.
 
 ## What I'm building
